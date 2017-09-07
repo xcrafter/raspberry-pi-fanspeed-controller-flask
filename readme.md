@@ -67,7 +67,6 @@ universally available over a network.
 
 ![alt text](https://image.ibb.co/n52ceF/Drawing1.jpg "Block Diagram")
 
-https://ibb.co/kH08mv
 
 # Format of url used by another nodes
 
