@@ -63,6 +63,12 @@ that router can access the flask web server running over PI. The other nodes can
 be computers, tablets, smartphones, wearables etc…Hence the system is
 universally available over a network.
 
+# Block Diagram
+
+![alt text](https://ibb.co/kH08mv "Block Diagram")
+
+https://ibb.co/kH08mv
+
 # Format of url used by another nodes
 
 “http://{IPAddress/hostname}:portnumber”
